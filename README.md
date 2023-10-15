@@ -11,7 +11,7 @@ sdk: gradio
 sdk_version: 3.14.0
 app_file: app.py
 pinned: true
-license: mit
+license: cc
 ---
 
 
