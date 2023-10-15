@@ -38,7 +38,7 @@ with gr.Blocks() as demo:
         """
         <div style="text-align: center; max-width: 1200px; margin: 20px auto;">
         <h2 style="font-weight: 900; font-size: 3rem; margin: 0rem">
-            📸 Image-to-Text with Awais Nayyar 📝
+            📸 Image-to-Text with 📝
         </h2>
         <br>   
         </div>
