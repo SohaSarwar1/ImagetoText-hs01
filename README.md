@@ -15,4 +15,4 @@ license: cc
 ---
 
 
-# HF_imageTotext_deployment
+# CI/CD Pipeline for Image-to-Text Model Deployment
